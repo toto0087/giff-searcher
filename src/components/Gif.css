@@ -1,0 +1,28 @@
+
+.Gif {
+    border: 2px solid red;
+    border-radius: 50px;
+    display: flex;
+    margin: 16%;
+    flex-direction: column;
+    padding: 32px;
+    width: 100%;
+    color: aqua;
+    text-decoration: none;
+}
+
+a {
+    display: block;
+}
+
+.Gif h4 {
+    margin: 0;
+}
+
+.Gif img{
+    object-fit: contain;
+}
+
+i {
+    font-size: 80px;
+}

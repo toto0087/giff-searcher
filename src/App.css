@@ -21,6 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  padding: 16px;
   color: white;
 }
 
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  font-size: 48px;
 }
